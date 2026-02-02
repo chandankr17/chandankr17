@@ -16,7 +16,7 @@ Interested in building **scalable full-stack web applications**
 
 ## 📄 Resume:
 📌 **View / Download My Resume**  
-👉 [Click Here](https://drive.google.com/file/d/1Mey7D_Qz5IiFZJ7gQl_UZswRF1HVflYg/view?usp=drive_link)
+👉 [Click Here](https://drive.google.com/file/d/1TYv0IGHHO-Rkqr45gKwBYi7wnyRMtlmM/view?usp=drive_link)
 
 ---
 
