@@ -16,7 +16,7 @@ Interested in building **scalable full-stack web applications**
 
 ## 📄 Resume:
 📌 **View / Download My Resume**  
-👉 [Click Here](https://drive.google.com/file/d/1TYv0IGHHO-Rkqr45gKwBYi7wnyRMtlmM/view?usp=drive_link)
+👉 [Click Here](https://drive.google.com/file/d/1dO74E6uaV-ulIIGWPKeVBevy_drJo3yN/view?usp=drive_link)
 
 ---
 
@@ -27,6 +27,7 @@ Interested in building **scalable full-stack web applications**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-800020.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- rest of technologies -->
