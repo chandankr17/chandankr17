@@ -17,7 +17,7 @@ Interested in building **scalable mobile and full-stack applications**
 
 ## 📄 Resume:
 📌 **View / Download My Resume**  
-👉 [Click Here](https://drive.google.com/file/d/1EHuQx-OMvIH0dcxNdGls3oOG7h55cir3/view?usp=drive_link)
+👉 [Click Here](https://drive.google.com/file/d/1pOEQbMNRjWXwlp1QqHXAj-wIYru-9Rgw/view?usp=drive_link)
 
 ---
 
