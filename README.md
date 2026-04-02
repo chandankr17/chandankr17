@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a **fresher**<br>
 An **Android App Developer using Kotlin & Java**<br>
-A **Full Stack Developer working with React and Spring Boot**<br>
+A **Full Stack Developer working with React and Express**<br>
 A **Java Programmer with strong OOP & DSA fundamentals**<br>
 Interested in building **scalable mobile and full-stack applications**
 
