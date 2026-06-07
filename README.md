@@ -3,7 +3,6 @@ I am a **fresher**<br>
 A **Full Stack Developer working with React and Express**<br>
 A **LeetCode Knight (1870 Rating)** with strong **OOP & DSA fundamentals in Java**<br>
 An **Android App Developer using Kotlin & Java**<br>
-A **Java Programmer with strong OOP & DSA fundamentals**<br>
 Interested in building **scalable mobile and full-stack applications**
 
 ---
