@@ -1,10 +1,12 @@
 # 💫 About Me:
 
-**Machine Learning, Agentic AI & Full-Stack Developer** with a B.Tech from **IIIT Bhubaneswar**.<br>
-Skilled in **Machine Learning, Python, Scikit-learn**, and the **MERN stack**.<br>
-**LeetCode Knight (1870+ Rating)** with **700+ DSA problems solved** and strong **Java & OOP fundamentals**.<br>
-Currently exploring **Generative AI, LLMs, RAG, LangChain & Agentic AI**.<br>
-Passionate about building **scalable full-stack and AI-powered applications**.
+**Machine Learning & Agentic AI Developer** with a B.Tech from **IIIT Bhubaneswar**.<br>
+Experienced in **Machine Learning, Generative AI, LLMs, RAG, LangChain, LangGraph & AI Agents**.<br>
+Skilled in **Python, Scikit-learn, data preprocessing, feature engineering, model building & evaluation**.<br>
+Full-Stack Developer with hands-on experience in the **MERN stack, REST APIs, JWT & real-time applications**.<br>
+**LeetCode Knight (1870+ Rating)** with **700+ DSA problems solved** using **Java**.<br>
+Also experienced in **Android Development with Kotlin, Java & Firebase**.<br>
+Passionate about building **AI-powered, intelligent and scalable applications**.
 
 ---
 
@@ -55,32 +57,28 @@ Passionate about building **scalable full-stack and AI-powered applications**.
 ![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge&logo=JSON%20web%20tokens)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### ☕ Java & DSA
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**700+ DSA Problems | LeetCode Knight | OOP | Data Structures & Algorithms**
+
 ### 📱 Android Development
 
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🗄️ Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Featured Areas:
+## 🚀 Core Areas:
 
-- 🤖 **Machine Learning & AI** — Regression, Classification, Clustering, Ensemble Models
-- 🧠 **Generative & Agentic AI** — LLMs, RAG, LangChain, LangGraph, AI Agents
-- 🌐 **Full Stack Development** — MERN, REST APIs, JWT, Real-Time Applications
-- 📱 **Android Development** — Kotlin, Java, Firebase, ML Kit
-- 🧩 **Data Structures & Algorithms** — 700+ problems solved
-- ☁️ **Backend Development** — Node.js, Express.js, MongoDB, Socket.io
+- 🤖 **Machine Learning** — Regression, Classification, Clustering, Ensemble Models, Feature Engineering
+- 🧠 **Agentic AI** — LLMs, RAG, LangChain, LangGraph, AI Agents & Tool Calling
+- 🌐 **MERN Stack** — React, Node.js, Express.js, MongoDB, REST APIs, JWT
+- ☕ **Java & DSA** — OOP, Data Structures, Algorithms, Problem Solving
+- 📱 **Android Development** — Kotlin, Java, Firebase & ML Kit
 
 ---
 
@@ -88,10 +86,10 @@ Passionate about building **scalable full-stack and AI-powered applications**.
 
 - ⭐ **LeetCode Knight — 1870+ Rating**
 - 🧩 **700+ DSA Problems Solved**
-- 💻 Strong fundamentals in **DSA, OOP, DBMS, OS & Computer Networks**
-- 🤖 Hands-on experience with **Machine Learning & AI projects**
-- 🧠 Exploring **Generative AI, RAG & Agentic AI**
+- 🤖 Hands-on experience with **Machine Learning & AI Projects**
+- 🧠 Built applications using **LLMs, RAG & Agentic AI**
 - 🌐 Built multiple **MERN Full-Stack Applications**
+- 💻 Strong fundamentals in **DSA, OOP, DBMS, OS & Computer Networks**
 
 ---
 
