@@ -1,12 +1,9 @@
 # 💫 About Me:
 
-**Machine Learning & Agentic AI Developer** with a B.Tech from **IIIT Bhubaneswar**.<br>
-Experienced in **Machine Learning, Generative AI, LLMs, RAG, LangChain, LangGraph & AI Agents**.<br>
-Skilled in **Python, Scikit-learn, data preprocessing, feature engineering, model building & evaluation**.<br>
-Full-Stack Developer with hands-on experience in the **MERN stack, REST APIs, JWT & real-time applications**.<br>
-**LeetCode Knight (1870+ Rating)** with **700+ DSA problems solved** using **Java**.<br>
-Also experienced in **Android Development with Kotlin, Java & Firebase**.<br>
-Passionate about building **AI-powered, intelligent and scalable applications**.
+**Machine Learning & Agentic AI Developer** skilled in **Python, Machine Learning, LLMs, RAG, LangChain & LangGraph**.<br>
+Experienced in building **AI-powered applications, intelligent agents and data-driven solutions**.<br>
+**Full-Stack Developer** with hands-on experience in the **MERN stack, REST APIs, JWT & real-time applications**.<br>
+**LeetCode Knight (1870+ Rating)** with **700+ DSA problems solved using Java** and strong **OOP fundamentals**.
 
 ---
 
